@@ -1,1 +1,1 @@
-![workflow]([https://github.com/aunt-htoo-aung/DevOpsLab/actions/workflows/main.yml/badge.svg)
+[![workflow]([https://github.com/aunt-htoo-aung/DevOpsLab/actions/workflows/main.yml/badge.svg)]([![workflow](https://github.com/aunt-htoo-aung/DevOpsLab/actions/workflows/main.yml/badge.svg)](https://github.com/aunt-htoo-aung/DevOpsLab/actions/workflows/main.yml))
